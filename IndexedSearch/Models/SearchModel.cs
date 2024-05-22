@@ -21,8 +21,6 @@ namespace IndexedSearch.Models
         public int Mgld { get; set; }
         public double Seniority { get; set; }
         public string EmpCode { get; set; }
-
-        
     }
 
     public class SearchModel
